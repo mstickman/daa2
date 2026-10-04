@@ -27,3 +27,4 @@ MyLinkedList-comparisons-one comparison of two elements
 MinHeap-steps-one read of a parent or child cell
 MinHeap-moves-one element moved (a swap is 2 moves, a copy while growing is 1 move)
 MinHeap-comparisons-one comparison of two elements
+<img width="1801" height="546" alt="image" src="https://github.com/user-attachments/assets/8466a466-d507-4439-a3a7-c945aee6617c" />
